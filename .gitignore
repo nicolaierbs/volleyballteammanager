@@ -1,1 +1,5 @@
 .idea
+*.pyc
+output
+data
+.ipynb_checkpoints
